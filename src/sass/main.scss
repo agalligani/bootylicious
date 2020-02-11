@@ -6,3 +6,14 @@
 body {
   background: #fff;
 }
+
+.email-signup {
+  background-color: $gray-700;
+}
+
+.jumbotron {
+  border-radius: 0;
+  &.homepage {
+    background: url(../images/flying-drone-above-clouds.jpg);
+  }
+}
